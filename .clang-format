@@ -1,0 +1,6 @@
+BasedOnStyle: GNU
+UseTab: Always
+TabWidth: 3
+IndentWidth: 3
+AlignConsecutiveAssignments: true
+ColumnLimit: 100
